@@ -1,12 +1,28 @@
 # BrusselsParking
 Map of parking spots of Brussels with location and fee information.
 
-<!-- <img src="https://github.com/dossma/ebook-file-renaming/blob/main/header.png" width=50% height=50%> -->
+<img src="https://github.com/dossma/BrusselsParking/blob/main/MapSnapshot.jpg" width=100% height=100%>
 
 ## Motivation
 
 Parking is difficult in metropolitan areas. To schedule your trip means also thinking ahead on where to park.
 With this map, you can find the best parking spot nearest to your destination.
+
+## Explanation
+
+The parking spots are listed under 4 categories:
+- Parking garage
+- Street parking
+- Park & Ride
+- Other
+
+Each parking lot has 3 attributes:
+- category
+- address
+- comment
+
+In the `comment` attribute, information on fees and/or the "parking zone" is given. 
+Brussels residents know that each street parking lot is assigned to a parking zone which represents certrain parking conditions.  
 
 ## Get started
 
