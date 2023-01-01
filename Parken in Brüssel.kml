@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Parken in Brüssel</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Parkhäuser Brüssel.ods</name>
+      <Placemark>
+        <name>Pacheco</name>
+        <address>Boulevard Pacheco 7 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Boulevard Pacheco 7 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Boulevard Pacheco 7 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The Hotel</name>
+        <address>Boulevard de Waterloo 45 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Boulevard de Waterloo 45 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Boulevard de Waterloo 45 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Jardin Botanique - Kruidtuin</name>
+        <address>Boulevard du Jardin Botanique 29 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Boulevard du Jardin Botanique 29 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Boulevard du Jardin Botanique 29 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>City 2</name>
+        <address>Rue Des Cendres 8 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue Des Cendres 8 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue Des Cendres 8 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Entre 2 Portes</name>
+        <address><![CDATA[Avenue de la Toison d'Or - 1000 Bruxelles]]></address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Avenue de la Toison d'Or - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value><![CDATA[Avenue de la Toison d'Or - 1000 Bruxelles]]></value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>2 Portes</name>
+        <address>Boulevard de Waterloo 2A- 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Boulevard de Waterloo 2A- 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Boulevard de Waterloo 2A- 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Alhambra</name>
+        <address>Boulevard Emile Jacqmain 14 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Boulevard Emile Jacqmain 14 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Boulevard Emile Jacqmain 14 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Passage 44</name>
+        <address><![CDATA[Rue de l'Ommegang 16 - 1000 Bruxelles]]></address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue de l'Ommegang 16 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value><![CDATA[Rue de l'Ommegang 16 - 1000 Bruxelles]]></value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sablon (Zavel) - Poelaert</name>
+        <address>Place Poelaert - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Place Poelaert - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Place Poelaert - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Albertine - Square</name>
+        <address>Place de la Justice 16 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Place de la Justice 16 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Place de la Justice 16 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dansaert</name>
+        <address>Place du Nouveau Marché aux Grains 2 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Place du Nouveau Marché aux Grains 2 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Place du Nouveau Marché aux Grains 2 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>De Brouckère</name>
+        <address>Place de Brouckère 1 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Place de Brouckère 1 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Place de Brouckère 1 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ecuyer - Schildknaap</name>
+        <address><![CDATA[Rue de l'Ecuyer 11-17 - 1000 Bruxelles]]></address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue de l'Ecuyer 11-17 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value><![CDATA[Rue de l'Ecuyer 11-17 - 1000 Bruxelles]]></value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lepage</name>
+        <address>Rue Léon Lepage 23 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue Léon Lepage 23 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue Léon Lepage 23 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Monnaie - Munt</name>
+        <address>Place de la Monnaie - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Place de la Monnaie - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Place de la Monnaie - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rouppe - Fontainas</name>
+        <address>Boulevard Maurice Lemmonier 10 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Boulevard Maurice Lemmonier 10 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Boulevard Maurice Lemmonier 10 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Royal</name>
+        <address>Rue Royale 128 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue Royale 128 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue Royale 128 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Porte de Hal - Hallepoort</name>
+        <address>Boulevard de Waterloo 103A - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Boulevard de Waterloo 103A - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Boulevard de Waterloo 103A - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Grand-Place - Grote Markt</name>
+        <address>Rue Marché aux Herbes 104 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue Marché aux Herbes 104 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue Marché aux Herbes 104 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Centre - Centrum</name>
+        <address>Rue du Damier 26 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue du Damier 26 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue du Damier 26 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Warwick Brussels</name>
+        <address>Rue Duquesnoy 5 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue Duquesnoy 5 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue Duquesnoy 5 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Loi - Wet</name>
+        <address>Rue de la Loi 19 - 1040 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue de la Loi 19 - 1040 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue de la Loi 19 - 1040 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Radisson Blu Hotel</name>
+        <address>Rue du Fossé aux Loups 47 - 1000 Bruxelles</address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Rue du Fossé aux Loups 47 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue du Fossé aux Loups 47 - 1000 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Toison d'Or - Guldenvlies]]></name>
+        <address><![CDATA[Avenue de la Toison d'Or 20 - 1000 Bruxelles]]></address>
+        <description><![CDATA[Art: Parkhaus<br>Adresse: Avenue de la Toison d'Or 20 - 1000 Bruxelles<br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Parkhaus</value>
+          </Data>
+          <Data name="Adresse">
+            <value><![CDATA[Avenue de la Toison d'Or 20 - 1000 Bruxelles]]></value>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rue de l'Harmonie]]></name>
+        <address><![CDATA[Rue de l'Harmonie, Bruxelles]]></address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Rue de l'Harmonie, Bruxelles<br>Kommentare: Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value><![CDATA[Rue de l'Harmonie, Bruxelles]]></value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rue de l'Angle]]></name>
+        <address><![CDATA[Rue de l'Angle, Bruxelles]]></address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Rue de l'Angle, Bruxelles<br>Kommentare: Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value><![CDATA[Rue de l'Angle, Bruxelles]]></value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Avenue de l'Héliport]]></name>
+        <address><![CDATA[Avenue de l'Héliport, Bruxelles]]></address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Avenue de l'Héliport, Bruxelles<br>Kommentare: Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value><![CDATA[Avenue de l'Héliport, Bruxelles]]></value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rue du Faubourg</name>
+        <address>Rue du Faubourg, Bruxelles</address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Rue du Faubourg, Bruxelles<br>Kommentare: Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue du Faubourg, Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rue Nicolay</name>
+        <address>Rue Nicolay, Bruxelles</address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Rue Nicolay, Bruxelles<br>Kommentare: Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue Nicolay, Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Avenue Louise</name>
+        <address>Avenue Louise, Bruxelles</address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Avenue Louise, Bruxelles<br>Kommentare: Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Avenue Louise, Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Blue Zone (2h Parkscheibe Mo-Sa von 9-18h)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rue de la samaritaine </name>
+        <address>Rue de la samaritaine, Bruxelles</address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Rue de la samaritaine, Bruxelles<br>Kommentare: "Green Zone", ggf. gutes Parken]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue de la samaritaine, Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value><![CDATA["Green Zone", ggf. gutes Parken]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rue des Tanneurs </name>
+        <address>Rue des Tanneurs, Bruxelles</address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Rue des Tanneurs, Bruxelles<br>Kommentare: "Green Zone", ggf. gutes Parken]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue des Tanneurs, Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value><![CDATA["Green Zone", ggf. gutes Parken]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chaussée d'Anvers ]]></name>
+        <address><![CDATA[Chaussée d'Anvers, Bruxelles]]></address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Chaussée d'Anvers, Bruxelles<br>Kommentare: Blue Zone between Boulevard Simon Bolivar and Avenue de la Reine]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value><![CDATA[Chaussée d'Anvers, Bruxelles]]></value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Blue Zone between Boulevard Simon Bolivar and Avenue de la Reine</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Avenue du Maelbeek</name>
+        <address>Avenue du Maelbeek 9-49, Bruxelles</address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Avenue du Maelbeek 9-49, Bruxelles<br>Kommentare: Zwischen Rue du Cornet & Rue Gray]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Avenue du Maelbeek 9-49, Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value><![CDATA[Zwischen Rue du Cornet & Rue Gray]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Triumphal Arch</name>
+        <address>Tunnel Cinquantenaire 27, 1040 Bruxelles</address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Tunnel Cinquantenaire 27, 1040 Bruxelles<br>Kommentare: Kostenfrei und unbegrenzt parken]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Tunnel Cinquantenaire 27, 1040 Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Kostenfrei und unbegrenzt parken</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rue Belliard</name>
+        <address>Rue Belliard, Bruxelles</address>
+        <description><![CDATA[Art: Strasse<br>Adresse: Rue Belliard, Bruxelles<br>Kommentare: Kostenfrei und unbegrenzt parken]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>Strasse</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue Belliard, Bruxelles</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Kostenfrei und unbegrenzt parken</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ceria</name>
+        <address>Avenue, Boulevard Josse Leemans 110, 1070 Anderlecht</address>
+        <description><![CDATA[Art: P + R<br>Adresse: Avenue, Boulevard Josse Leemans 110, 1070 Anderlecht<br>Kommentare: Kostenfrei]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>P + R</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Avenue, Boulevard Josse Leemans 110, 1070 Anderlecht</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Kostenfrei</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lennik-Erasme</name>
+        <address>Route de Lennik 806, 1070 Anderlecht</address>
+        <description><![CDATA[Art: P + R<br>Adresse: Route de Lennik 806, 1070 Anderlecht<br>Kommentare: Viele kostenfrei]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>P + R</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Route de Lennik 806, 1070 Anderlecht</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Viele kostenfrei</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Stalle</name>
+        <address>Rue de Stalle 282, 1180 Uccle</address>
+        <description><![CDATA[Art: P + R<br>Adresse: Rue de Stalle 282, 1180 Uccle<br>Kommentare: Kostenfrei]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>P + R</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue de Stalle 282, 1180 Uccle</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Kostenfrei</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Herrmann-Debroux</name>
+        <address>Avenue Herrmann-Debroux 1, 1160 Auderghem</address>
+        <description><![CDATA[Art: P + R<br>Adresse: Avenue Herrmann-Debroux 1, 1160 Auderghem <br>Kommentare: Kostenfrei; area beneath the viaduct between Rue Jacques Bassem and Chaussée de Wavre]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>P + R</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Avenue Herrmann-Debroux 1, 1160 Auderghem </value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Kostenfrei; area beneath the viaduct between Rue Jacques Bassem and Chaussée de Wavre</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Delta</name>
+        <address>Rue Jules Cockx 224, 1160 Auderghem</address>
+        <description><![CDATA[Art: P + R<br>Adresse: Rue Jules Cockx 224, 1160 Auderghem<br>Kommentare: Kostenfrei]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>P + R</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Rue Jules Cockx 224, 1160 Auderghem</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Kostenfrei</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Rodebeek</name>
+        <address>Roodebeeksteenweg 27, 1200 Sint-Lambrechts-Woluwe</address>
+        <description><![CDATA[Art: P + R<br>Adresse: Roodebeeksteenweg 27, 1200 Sint-Lambrechts-Woluwe<br>Kommentare: Kostenfrei]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value>P + R</value>
+          </Data>
+          <Data name="Adresse">
+            <value>Roodebeeksteenweg 27, 1200 Sint-Lambrechts-Woluwe</value>
+          </Data>
+          <Data name="Kommentare">
+            <value>Kostenfrei</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Punkt 43</name>
+        <description><![CDATA[Art: <br>Adresse: <br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value/>
+          </Data>
+          <Data name="Adresse">
+            <value/>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.3764685,50.8189397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matonge</name>
+        <description><![CDATA[Art: <br>Adresse: <br>Kommentare: ]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="Art">
+            <value/>
+          </Data>
+          <Data name="Adresse">
+            <value/>
+          </Data>
+          <Data name="Kommentare">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.3676357,50.8356352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Unbenannte Ebene</name>
+    </Folder>
+  </Document>
+</kml>
