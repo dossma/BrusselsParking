@@ -1,4 +1,4 @@
-# BrusselsParking
+# BrusselsParkingMap
 Map of parking spots of Brussels with location and fee information.
 
 <img src="https://github.com/dossma/BrusselsParking/blob/main/MapSnapshot.jpg" width=100% height=100%>
