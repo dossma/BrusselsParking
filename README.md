@@ -26,7 +26,7 @@ Brussels residents know that each street parking lot is assigned to a parking zo
 
 ## Get started
 
-Load the KML (or its compressed version KMZ) file into your favourite geo data / maps aplication.  
+Load the KML (or its compressed version KMZ) file into your favourite geo data / maps application.  
 
 ## Meta
 
